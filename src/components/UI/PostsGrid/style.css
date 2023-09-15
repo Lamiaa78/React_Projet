@@ -1,0 +1,9 @@
+.posts-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.posts-grid .post-card {
+    margin: 10px;
+}
