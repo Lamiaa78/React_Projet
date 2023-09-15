@@ -12,4 +12,4 @@ const PostsGrid = ({ posts }) => {
   );
 }
 
-export default PostsGrid;cd 
+export default PostsGrid; 
